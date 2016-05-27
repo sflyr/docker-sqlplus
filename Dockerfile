@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM sflyr/ubuntu
 MAINTAINER sflyr
 
 RUN apt-get -y update
